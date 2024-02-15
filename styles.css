@@ -1,0 +1,62 @@
+
+
+body{ 
+    background-color: lightgrey;
+    margin: 0%;
+    
+    }
+
+
+header h1{
+    margin: 0%;
+    margin-bottom: 20px;
+}
+header{
+    background-color: white;
+    text-align: center;
+    height: 60px;
+    margin-bottom: 20px;
+    }
+    
+
+.head h2,span {
+    padding: 5px;
+    }
+
+    .post{
+    background-color: white;
+    margin: 0%;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    }
+
+.container {
+    width: 600px;
+    margin: auto;
+    }
+
+.post img {
+    width: 100%;
+    }
+
+.post .head div:first-child{
+    width: 80%;
+    display: inline-block;
+    }
+
+.post .head div:last-child{
+    width: 20%;
+    text-align: right;
+    display: inline-block;
+    padding: 10px;
+    color: gray;
+    }
+
+div{
+    box-sizing: border-box
+    } 
+
+.pie{
+    padding: 5px;
+    }
+
